@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.example.test_loggin.data.Usuario;
+
 public class Menu extends AppCompatActivity {
     int id=0;
     Usuario u;

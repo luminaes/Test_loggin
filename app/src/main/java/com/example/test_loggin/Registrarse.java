@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.test_loggin.data.Usuario;
+
 public class Registrarse extends AppCompatActivity implements View.OnClickListener{
 EditText us, pas, nom, cor;
 Button reg, can; //registrar y cancelar

@@ -1,5 +1,9 @@
-package com.example.test_loggin;
+package com.example.test_loggin.data;
 
+
+import androidx.room.Entity;
+
+@Entity(tableName = "Usuarios")
 public class Usuario {
     int Id;
     String Usuario, Password, Nombre, Correo;

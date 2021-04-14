@@ -5,6 +5,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
+import com.example.test_loggin.data.Usuario;
+
 import java.util.ArrayList;
 
 public class daoUsuarios {
