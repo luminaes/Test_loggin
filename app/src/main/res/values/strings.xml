@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test_loggin</string>
+    <string name="Nombre">Nombre de Usuario</string>
+    <string name="Password">Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="ingrese_sus_datos">INGRESE SUS DATOS PARA REGISTRARSE</string>
+    <string name="nuevo_correo">Correo Electronico</string>
+    <string name="nuevo_usuario">Usuario</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="nuevo_nombre">Nombre</string>
+    <string name="grabar">Grabar</string>
+
+
+</resources>
